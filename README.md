@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Deeksha224/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Deeksha224/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Deeksha224/Leetcode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Deeksha224/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Deeksha224/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Deeksha224/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Deeksha224/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Deeksha224/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Deeksha224/Leetcode/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deeksha224/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Deeksha224/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
