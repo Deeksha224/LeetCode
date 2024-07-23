@@ -11,18 +11,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Deeksha224/Leetcode/tree/master/0035-search-insert-position) |
 | [1580-shuffle-the-array](https://github.com/Deeksha224/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Deeksha224/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/Deeksha224/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Deeksha224/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/Deeksha224/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Deeksha224/Leetcode/tree/master/0001-two-sum) |
+| [1635-number-of-good-pairs](https://github.com/Deeksha224/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Deeksha224/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Deeksha224/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Deeksha224/Leetcode/tree/master/0050-powx-n) |
+| [1635-number-of-good-pairs](https://github.com/Deeksha224/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Deeksha224/Leetcode/tree/master/1791-richest-customer-wealth) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Deeksha224/Leetcode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
