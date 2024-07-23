@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deeksha224/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Deeksha224/Leetcode/tree/master/0035-search-insert-position) |
 | [1603-running-sum-of-1d-array](https://github.com/Deeksha224/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1791-richest-customer-wealth](https://github.com/Deeksha224/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/Deeksha224/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Deeksha224/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/Deeksha224/Leetcode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
