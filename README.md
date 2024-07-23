@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Deeksha224/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Deeksha224/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Deeksha224/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deeksha224/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deeksha224/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Deeksha224/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1580-shuffle-the-array](https://github.com/Deeksha224/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Deeksha224/Leetcode/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Deeksha224/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Deeksha224/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deeksha224/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Deeksha224/Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Recursion
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Deeksha224/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/Deeksha224/Leetcode/tree/master/0898-transpose-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deeksha224/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Deeksha224/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Deeksha224/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Deeksha224/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
