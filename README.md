@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Deeksha224/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Deeksha224/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Deeksha224/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Deeksha224/Leetcode/tree/master/0441-arranging-coins) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Deeksha224/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Deeksha224/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Deeksha224/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Deeksha224/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Deeksha224/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Deeksha224/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/Deeksha224/Leetcode/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Deeksha224/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Deeksha224/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Recursion
