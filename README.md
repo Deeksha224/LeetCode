@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Deeksha224/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Deeksha224/Leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Deeksha224/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Deeksha224/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Deeksha224/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Deeksha224/Leetcode/tree/master/0069-sqrtx) |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Deeksha224/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Deeksha224/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Deeksha224/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
