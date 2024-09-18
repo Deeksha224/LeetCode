@@ -11,9 +11,10 @@ class Solution {
         for (int i = n - 2; i >= 0 ; i--){
             right[i] = right[i + 1] * arr[i + 1]; 
         } 
+        int [] ans = new int[n];
         for (int i = 0; i < n; i++){
-            left[i] = left[i] * right[i];
+            ans[i] = left[i] * right[i];
         }
-        return left;
+        return ans;
     }
 }
