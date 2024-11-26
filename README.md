@@ -244,4 +244,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Deeksha224/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0520-detect-capital](https://github.com/Deeksha224/Leetcode/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
