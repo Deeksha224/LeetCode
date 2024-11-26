@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deeksha224/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Deeksha224/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Deeksha224/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Deeksha224/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Deeksha224/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deeksha224/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Deeksha224/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Deeksha224/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Deeksha224/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Deeksha224/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Deeksha224/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deeksha224/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Deeksha224/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Deeksha224/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Deeksha224/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Deeksha224/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Deeksha224/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Deeksha224/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deeksha224/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/Deeksha224/Leetcode/tree/master/0948-sort-an-array) |
