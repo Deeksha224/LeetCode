@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Deeksha224/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Deeksha224/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Deeksha224/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1899-count-items-matching-a-rule](https://github.com/Deeksha224/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1983-maximum-population-year](https://github.com/Deeksha224/Leetcode/tree/master/1983-maximum-population-year) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Deeksha224/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/Deeksha224/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Deeksha224/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Deeksha224/Leetcode/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/Deeksha224/Leetcode/tree/master/1797-goal-parser-interpretation) |
+| [1899-count-items-matching-a-rule](https://github.com/Deeksha224/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 ## Sliding Window
 |  |
 | ------- |
