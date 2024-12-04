@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Deeksha224/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0520-detect-capital](https://github.com/Deeksha224/Leetcode/tree/master/0520-detect-capital) |
+| [0742-to-lower-case](https://github.com/Deeksha224/Leetcode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/Deeksha224/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Deeksha224/Leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Deeksha224/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
