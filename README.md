@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Deeksha224/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Deeksha224/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deeksha224/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1970-sorting-the-sentence](https://github.com/Deeksha224/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Deeksha224/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3321-type-of-triangle](https://github.com/Deeksha224/Leetcode/tree/master/3321-type-of-triangle) |
 ## Greedy
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Deeksha224/Leetcode/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/Deeksha224/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/Deeksha224/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1970-sorting-the-sentence](https://github.com/Deeksha224/Leetcode/tree/master/1970-sorting-the-sentence) |
 ## Sliding Window
 |  |
 | ------- |
