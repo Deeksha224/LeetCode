@@ -32,10 +32,7 @@ class Solution {
         }
         int store = 0;
         for (int i = 0; i < quantities.length; i++){
-            store += quantities[i] / mid + 1;
-            if (quantities[i] % mid == 0){
-                store--;
-            }
+            store += (int) Math.ceil((double) quantities[i] / mid);
             if (store > n){
                 return false;
             }
