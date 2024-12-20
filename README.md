@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Deeksha224/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Deeksha224/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Deeksha224/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Deeksha224/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [3321-type-of-triangle](https://github.com/Deeksha224/Leetcode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Deeksha224/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deeksha224/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Deeksha224/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Deeksha224/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Recursion
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Deeksha224/Leetcode/tree/master/0455-assign-cookies) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Deeksha224/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Deeksha224/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Deeksha224/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Divide and Conquer
 |  |
 | ------- |
