@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Deeksha224/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Deeksha224/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deeksha224/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Deeksha224/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Deeksha224/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Deeksha224/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Deeksha224/Leetcode/tree/master/0455-assign-cookies) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deeksha224/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Deeksha224/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Deeksha224/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Deeksha224/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Deeksha224/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Deeksha224/Leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deeksha224/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Deeksha224/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Deeksha224/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deeksha224/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Deeksha224/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Deeksha224/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/Deeksha224/Leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deeksha224/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Deeksha224/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Deeksha224/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deeksha224/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Deeksha224/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Deeksha224/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Deeksha224/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deeksha224/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Deeksha224/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/Deeksha224/Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
