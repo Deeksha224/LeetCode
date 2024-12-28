@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Deeksha224/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Deeksha224/Leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Deeksha224/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/Deeksha224/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Deeksha224/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Deeksha224/Leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Deeksha224/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Deeksha224/Leetcode/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/Deeksha224/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Deeksha224/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0917-boats-to-save-people](https://github.com/Deeksha224/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Deeksha224/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Deeksha224/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Deeksha224/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Deeksha224/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deeksha224/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Deeksha224/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0917-boats-to-save-people](https://github.com/Deeksha224/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Deeksha224/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Deeksha224/Leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Deeksha224/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Deeksha224/Leetcode/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/Deeksha224/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Deeksha224/Leetcode/tree/master/0455-assign-cookies) |
+| [0917-boats-to-save-people](https://github.com/Deeksha224/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Deeksha224/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Deeksha224/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Deeksha224/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
