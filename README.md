@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Deeksha224/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Deeksha224/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Deeksha224/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Deeksha224/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Deeksha224/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Deeksha224/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Deeksha224/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Deeksha224/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Deeksha224/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Deeksha224/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Deeksha224/Leetcode/tree/master/1013-fibonacci-number) |
 ## Simulation
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Deeksha224/Leetcode/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/Deeksha224/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Deeksha224/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/Deeksha224/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Deeksha224/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deeksha224/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Deeksha224/Leetcode/tree/master/0342-power-of-four) |
