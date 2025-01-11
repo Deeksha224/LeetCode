@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Deeksha224/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Deeksha224/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Deeksha224/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Deeksha224/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Deeksha224/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Deeksha224/Leetcode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Deeksha224/Leetcode/tree/master/2645-pass-the-pillow) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Deeksha224/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deeksha224/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Deeksha224/Leetcode/tree/master/0342-power-of-four) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Deeksha224/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
