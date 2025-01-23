@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/Deeksha224/Leetcode/tree/master/2145-grid-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Deeksha224/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Deeksha224/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2792-neighboring-bitwise-xor](https://github.com/Deeksha224/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3321-type-of-triangle](https://github.com/Deeksha224/Leetcode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Deeksha224/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Deeksha224/Leetcode/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Deeksha224/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2792-neighboring-bitwise-xor](https://github.com/Deeksha224/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
