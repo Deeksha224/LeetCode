@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Deeksha224/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/Deeksha224/Leetcode/tree/master/1983-maximum-population-year) |
 | [2145-grid-game](https://github.com/Deeksha224/Leetcode/tree/master/2145-grid-game) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Deeksha224/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Matrix
 |  |
 | ------- |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Deeksha224/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/Deeksha224/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Deeksha224/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Deeksha224/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3451-string-compression-iii](https://github.com/Deeksha224/Leetcode/tree/master/3451-string-compression-iii) |
 ## Sliding Window
 |  |
