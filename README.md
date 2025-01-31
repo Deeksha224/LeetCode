@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Deeksha224/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Deeksha224/Leetcode/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/Deeksha224/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Deeksha224/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Deeksha224/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0875-longest-mountain-in-array](https://github.com/Deeksha224/Leetcode/tree/master/0875-longest-mountain-in-array) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deeksha224/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Deeksha224/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Deeksha224/Leetcode/tree/master/0058-length-of-last-word) |
+| [0131-palindrome-partitioning](https://github.com/Deeksha224/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Deeksha224/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Deeksha224/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Deeksha224/Leetcode/tree/master/0344-reverse-string) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deeksha224/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Deeksha224/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Deeksha224/Leetcode/tree/master/0039-combination-sum) |
+| [0131-palindrome-partitioning](https://github.com/Deeksha224/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Depth-First Search
 |  |
 | ------- |
