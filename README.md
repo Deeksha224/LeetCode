@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Deeksha224/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Deeksha224/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2645-pass-the-pillow](https://github.com/Deeksha224/Leetcode/tree/master/2645-pass-the-pillow) |
+| [3447-clear-digits](https://github.com/Deeksha224/Leetcode/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Deeksha224/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Deeksha224/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Deeksha224/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
+| [3447-clear-digits](https://github.com/Deeksha224/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Deeksha224/Leetcode/tree/master/3451-string-compression-iii) |
 ## Sliding Window
 |  |
@@ -471,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Deeksha224/Leetcode/tree/master/0204-count-primes) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Deeksha224/Leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
