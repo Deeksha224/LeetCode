@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Deeksha224/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Deeksha224/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Deeksha224/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deeksha224/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Deeksha224/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2792-neighboring-bitwise-xor](https://github.com/Deeksha224/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3321-type-of-triangle](https://github.com/Deeksha224/Leetcode/tree/master/3321-type-of-triangle) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Deeksha224/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Deeksha224/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Deeksha224/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deeksha224/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Deeksha224/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Math
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deeksha224/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/Deeksha224/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Deeksha224/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deeksha224/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3321-type-of-triangle](https://github.com/Deeksha224/Leetcode/tree/master/3321-type-of-triangle) |
 ## Greedy
 |  |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Deeksha224/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Deeksha224/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/Deeksha224/Leetcode/tree/master/0948-sort-an-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deeksha224/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Merge Sort
 |  |
 | ------- |
