@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Deeksha224/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Deeksha224/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Deeksha224/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Deeksha224/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Deeksha224/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deeksha224/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Deeksha224/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Deeksha224/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Deeksha224/Leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Deeksha224/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Deeksha224/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Deeksha224/Leetcode/tree/master/0231-power-of-two) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Deeksha224/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Deeksha224/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Deeksha224/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Deeksha224/Leetcode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Deeksha224/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Deeksha224/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Depth-First Search
