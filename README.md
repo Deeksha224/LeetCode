@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deeksha224/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Deeksha224/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Deeksha224/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1511-count-number-of-teams](https://github.com/Deeksha224/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/Deeksha224/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Deeksha224/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Deeksha224/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Deeksha224/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0875-longest-mountain-in-array](https://github.com/Deeksha224/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/Deeksha224/Leetcode/tree/master/1013-fibonacci-number) |
+| [1511-count-number-of-teams](https://github.com/Deeksha224/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Interactive
 |  |
 | ------- |
@@ -536,4 +538,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deeksha224/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Deeksha224/Leetcode/tree/master/0085-maximal-rectangle) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Deeksha224/Leetcode/tree/master/1511-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Deeksha224/Leetcode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
