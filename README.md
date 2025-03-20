@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Deeksha224/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Deeksha224/Leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Deeksha224/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0909-stone-game](https://github.com/Deeksha224/Leetcode/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/Deeksha224/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Deeksha224/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Deeksha224/Leetcode/tree/master/0948-sort-an-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Deeksha224/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Deeksha224/Leetcode/tree/master/0670-maximum-swap) |
 | [0755-reach-a-number](https://github.com/Deeksha224/Leetcode/tree/master/0755-reach-a-number) |
+| [0909-stone-game](https://github.com/Deeksha224/Leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Deeksha224/Leetcode/tree/master/1013-fibonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Deeksha224/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Deeksha224/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Deeksha224/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Deeksha224/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0875-longest-mountain-in-array](https://github.com/Deeksha224/Leetcode/tree/master/0875-longest-mountain-in-array) |
+| [0909-stone-game](https://github.com/Deeksha224/Leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Deeksha224/Leetcode/tree/master/1013-fibonacci-number) |
 | [1511-count-number-of-teams](https://github.com/Deeksha224/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Interactive
@@ -562,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Deeksha224/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Deeksha224/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Deeksha224/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Deeksha224/Leetcode/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
