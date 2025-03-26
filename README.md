@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Deeksha224/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2145-grid-game](https://github.com/Deeksha224/Leetcode/tree/master/2145-grid-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Deeksha224/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deeksha224/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Deeksha224/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/Deeksha224/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Deeksha224/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Deeksha224/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Deeksha224/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Deeksha224/Leetcode/tree/master/1642-water-bottles) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deeksha224/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2645-pass-the-pillow](https://github.com/Deeksha224/Leetcode/tree/master/2645-pass-the-pillow) |
 | [3227-find-missing-and-repeated-values](https://github.com/Deeksha224/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Deeksha224/Leetcode/tree/master/3321-type-of-triangle) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Deeksha224/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Deeksha224/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2145-grid-game](https://github.com/Deeksha224/Leetcode/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deeksha224/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Deeksha224/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/Deeksha224/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deeksha224/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/Deeksha224/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Deeksha224/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deeksha224/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deeksha224/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3321-type-of-triangle](https://github.com/Deeksha224/Leetcode/tree/master/3321-type-of-triangle) |
 ## Greedy
