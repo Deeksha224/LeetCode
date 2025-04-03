@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Deeksha224/Leetcode/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Deeksha224/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Deeksha224/Leetcode/tree/master/3429-special-array-i) |
+| [3639-zero-array-transformation-i](https://github.com/Deeksha224/Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/Deeksha224/Leetcode/tree/master/1983-maximum-population-year) |
 | [2145-grid-game](https://github.com/Deeksha224/Leetcode/tree/master/2145-grid-game) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Deeksha224/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
+| [3639-zero-array-transformation-i](https://github.com/Deeksha224/Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Matrix
 |  |
 | ------- |
