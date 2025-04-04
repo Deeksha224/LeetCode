@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Deeksha224/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deeksha224/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/Deeksha224/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0611-valid-triangle-number](https://github.com/Deeksha224/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deeksha224/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Deeksha224/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Deeksha224/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deeksha224/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Deeksha224/Leetcode/tree/master/0455-assign-cookies) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Deeksha224/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0611-valid-triangle-number](https://github.com/Deeksha224/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Deeksha224/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Deeksha224/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0875-longest-mountain-in-array](https://github.com/Deeksha224/Leetcode/tree/master/0875-longest-mountain-in-array) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Deeksha224/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Deeksha224/Leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deeksha224/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/Deeksha224/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Deeksha224/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Deeksha224/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Deeksha224/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Deeksha224/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Deeksha224/Leetcode/tree/master/0455-assign-cookies) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Deeksha224/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0611-valid-triangle-number](https://github.com/Deeksha224/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deeksha224/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Deeksha224/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/Deeksha224/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Deeksha224/Leetcode/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Deeksha224/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Deeksha224/Leetcode/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/Deeksha224/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/Deeksha224/Leetcode/tree/master/0670-maximum-swap) |
 | [0917-boats-to-save-people](https://github.com/Deeksha224/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Deeksha224/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
