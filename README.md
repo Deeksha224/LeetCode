@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Deeksha224/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Deeksha224/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Deeksha224/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1585-the-kth-factor-of-n](https://github.com/Deeksha224/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/Deeksha224/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Deeksha224/Leetcode/tree/master/1642-water-bottles) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deeksha224/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Deeksha224/Leetcode/tree/master/0204-count-primes) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Deeksha224/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
+| [1585-the-kth-factor-of-n](https://github.com/Deeksha224/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 ## Stack
 |  |
 | ------- |
