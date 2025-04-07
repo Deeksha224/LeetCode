@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/Deeksha224/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Deeksha224/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1019-squares-of-a-sorted-array](https://github.com/Deeksha224/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Deeksha224/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1293-three-consecutive-odds](https://github.com/Deeksha224/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Deeksha224/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Deeksha224/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deeksha224/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deeksha224/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0959-3sum-with-multiplicity](https://github.com/Deeksha224/Leetcode/tree/master/0959-3sum-with-multiplicity) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Deeksha224/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Deeksha224/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deeksha224/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Deeksha224/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deeksha224/Leetcode/tree/master/0169-majority-element) |
 | [0959-3sum-with-multiplicity](https://github.com/Deeksha224/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Deeksha224/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Deeksha224/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deeksha224/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Deeksha224/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Deeksha224/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
