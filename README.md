@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Deeksha224/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Deeksha224/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Deeksha224/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Deeksha224/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Deeksha224/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Deeksha224/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Deeksha224/Leetcode/tree/master/0342-power-of-four) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Deeksha224/Leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Deeksha224/Leetcode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/Deeksha224/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/Deeksha224/Leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Deeksha224/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Deeksha224/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Deeksha224/Leetcode/tree/master/0258-add-digits) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Deeksha224/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1585-the-kth-factor-of-n](https://github.com/Deeksha224/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 ## Stack
