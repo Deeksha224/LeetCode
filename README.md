@@ -569,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Deeksha224/Leetcode/tree/master/0101-symmetric-tree) |
 | [0386-lexicographical-numbers](https://github.com/Deeksha224/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Deeksha224/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 ## Trie
 |  |
 | ------- |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Deeksha224/Leetcode/tree/master/0101-symmetric-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Deeksha224/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -668,4 +670,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Deeksha224/Leetcode/tree/master/0101-symmetric-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Deeksha224/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 <!---LeetCode Topics End-->
