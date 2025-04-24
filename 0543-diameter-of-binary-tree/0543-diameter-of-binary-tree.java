@@ -13,22 +13,48 @@
  *     }
  * }
  */
+
+ // the complexity of code is n^2 
+
+// class Solution {
+//     public int diameterOfBinaryTree(TreeNode root) {
+//         if (root == null){
+//             return -1;
+//         }
+//         int ld = diameterOfBinaryTree(root.left);
+//         int rd = diameterOfBinaryTree(root.right);
+//         int sd = ht(root.left)+ht(root.right) + 2;
+//         return Math.max(sd,Math.max(rd,ld));
+//     }
+//     public int ht(TreeNode root){
+//         if (root==null){
+//             return -1;
+//         }
+//         int lh = ht(root.left);
+//         int rg = ht(root.right);
+//         return Math.max(lh,rg) + 1;
+//     }
+// }
+
 class Solution {
     public int diameterOfBinaryTree(TreeNode root) {
-        if (root == null){
-            return -1;
-        }
-        int ld = diameterOfBinaryTree(root.left);
-        int rd = diameterOfBinaryTree(root.right);
-        int sd = ht(root.left)+ht(root.right) + 2;
-        return Math.max(sd,Math.max(rd,ld));
+        return diameter(root).dt;
     }
-    public int ht(TreeNode root){
-        if (root==null){
-            return -1;
+    public DiaPair diameter(TreeNode root) {
+        if (root == null){
+            return new DiaPair();
         }
-        int lh = ht(root.left);
-        int rg = ht(root.right);
-        return Math.max(lh,rg) + 1;
+        DiaPair ldp = diameter(root.left);  // dt ht
+        DiaPair rdp = diameter(root.right);  // dt ht
+        int sd = ldp.ht + rdp.ht + 2;
+        DiaPair sdp = new DiaPair();
+        sdp.dt = Math.max(sd,Math.max(rdp.dt, ldp.dt));
+        sdp.ht = Math.max(ldp.ht,rdp.ht) + 1;
+        return sdp;
+    }
+    class DiaPair{
+        int dt = 0;
+        int ht = -1;
+
     }
 }
