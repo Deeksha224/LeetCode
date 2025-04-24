@@ -572,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Deeksha224/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deeksha224/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Deeksha224/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0543-diameter-of-binary-tree](https://github.com/Deeksha224/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Deeksha224/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 ## Trie
 |  |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Deeksha224/Leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Deeksha224/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deeksha224/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Deeksha224/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Deeksha224/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -680,5 +682,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Deeksha224/Leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Deeksha224/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deeksha224/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Deeksha224/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Deeksha224/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 <!---LeetCode Topics End-->
