@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/Deeksha224/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Deeksha224/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Deeksha224/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Deeksha224/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/Deeksha224/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Deeksha224/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Deeksha224/Leetcode/tree/master/3321-type-of-triangle) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Deeksha224/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Deeksha224/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Deeksha224/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1983-maximum-population-year](https://github.com/Deeksha224/Leetcode/tree/master/1983-maximum-population-year) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Deeksha224/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Deeksha224/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sorting
 |  |
 | ------- |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-minimum-penalty-for-a-shop](https://github.com/Deeksha224/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3447-clear-digits](https://github.com/Deeksha224/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Deeksha224/Leetcode/tree/master/3451-string-compression-iii) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Deeksha224/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sliding Window
 |  |
 | ------- |
