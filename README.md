@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Deeksha224/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/Deeksha224/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Deeksha224/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Deeksha224/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Deeksha224/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deeksha224/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/Deeksha224/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Deeksha224/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Deeksha224/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Deeksha224/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Deeksha224/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deeksha224/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Deeksha224/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Deeksha224/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Deeksha224/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Deeksha224/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Deeksha224/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Memoization
 |  |
 | ------- |
