@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/Deeksha224/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Deeksha224/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Deeksha224/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Deeksha224/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Deeksha224/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
 |  |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Deeksha224/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Deeksha224/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Deeksha224/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Deeksha224/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Recursion
 |  |
 | ------- |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Deeksha224/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1983-maximum-population-year](https://github.com/Deeksha224/Leetcode/tree/master/1983-maximum-population-year) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Deeksha224/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Deeksha224/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Deeksha224/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sorting
 |  |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/Deeksha224/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2487-optimal-partition-of-string](https://github.com/Deeksha224/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Deeksha224/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Deeksha224/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3447-clear-digits](https://github.com/Deeksha224/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Deeksha224/Leetcode/tree/master/3451-string-compression-iii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Deeksha224/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -575,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Deeksha224/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Deeksha224/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Deeksha224/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Deeksha224/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Memoization
 |  |
 | ------- |
