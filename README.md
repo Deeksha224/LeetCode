@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Deeksha224/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Deeksha224/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Deeksha224/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2138-sum-of-beauty-in-the-array](https://github.com/Deeksha224/Leetcode/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2145-grid-game](https://github.com/Deeksha224/Leetcode/tree/master/2145-grid-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Deeksha224/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deeksha224/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
