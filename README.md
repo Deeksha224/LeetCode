@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Deeksha224/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/Deeksha224/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Deeksha224/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Deeksha224/Leetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Deeksha224/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/Deeksha224/Leetcode/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2145-grid-game](https://github.com/Deeksha224/Leetcode/tree/master/2145-grid-game) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Deeksha224/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deeksha224/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/Deeksha224/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Deeksha224/Leetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Deeksha224/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Deeksha224/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deeksha224/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Deeksha224/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1502-construct-k-palindrome-strings](https://github.com/Deeksha224/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1652-minimum-suffix-flips](https://github.com/Deeksha224/Leetcode/tree/master/1652-minimum-suffix-flips) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Deeksha224/Leetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Deeksha224/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Deeksha224/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Deeksha224/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
