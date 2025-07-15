@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/Deeksha224/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/Deeksha224/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Deeksha224/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Deeksha224/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/Deeksha224/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Deeksha224/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Deeksha224/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Deeksha224/Leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Deeksha224/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Deeksha224/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Deeksha224/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/Deeksha224/Leetcode/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Deeksha224/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Deeksha224/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Deeksha224/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Deeksha224/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Deeksha224/Leetcode/tree/master/0735-asteroid-collision) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Deeksha224/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Deeksha224/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Deeksha224/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Deeksha224/Leetcode/tree/master/2470-removing-stars-from-a-string) |
