@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Deeksha224/Leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deeksha224/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Deeksha224/Leetcode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Deeksha224/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Deeksha224/Leetcode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deeksha224/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Deeksha224/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Deeksha224/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Deeksha224/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Deeksha224/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Deeksha224/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Deeksha224/Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Deeksha224/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Deeksha224/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
