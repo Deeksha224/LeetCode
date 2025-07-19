@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Deeksha224/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/Deeksha224/Leetcode/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/Deeksha224/Leetcode/tree/master/0917-boats-to-save-people) |
+| [0940-fruit-into-baskets](https://github.com/Deeksha224/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Deeksha224/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Deeksha224/Leetcode/tree/master/0948-sort-an-array) |
 | [0959-3sum-with-multiplicity](https://github.com/Deeksha224/Leetcode/tree/master/0959-3sum-with-multiplicity) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deeksha224/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deeksha224/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deeksha224/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Deeksha224/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0959-3sum-with-multiplicity](https://github.com/Deeksha224/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Deeksha224/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Deeksha224/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Deeksha224/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Deeksha224/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Deeksha224/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0940-fruit-into-baskets](https://github.com/Deeksha224/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Deeksha224/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Deeksha224/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Memoization
